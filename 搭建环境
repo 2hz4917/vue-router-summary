@@ -1,0 +1,17 @@
+Vue、Vue-router、Vue-cli、Wabpack以及Axios创建项目
+1--搭建项目结构
+全局安装vue-cli
+
+cnpm i vue-cli -g
+//淘宝镜像 安装 ... 全局
+
+初始化项目-webpack模板
+vue init webpack projectName
+
+然后根据命令行中的提示，进行操作
+
+安装依赖包
+cnpm i
+
+本地跑起来项目
+npm run dev
